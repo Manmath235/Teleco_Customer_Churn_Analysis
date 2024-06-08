@@ -1,5 +1,3 @@
-# Teleco_Customer_Churn_Analysis
-
 # Teleco Customer Churn Analysis
 
 Welcome to the Teleco Customer Churn Analysis project! This repository contains the comprehensive analysis of customer churn within a telecommunications company, aiming to identify key factors influencing churn, develop predictive models, and provide actionable recommendations to enhance customer retention and satisfaction.
